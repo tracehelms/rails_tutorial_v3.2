@@ -9,6 +9,7 @@ gem 'bootstrap-sass', '2.0.4'
 
 group :development, :test do
     gem 'rspec-rails', '2.11.0'
+    gem 'annotate', '2.5.0'
 end
 
 
