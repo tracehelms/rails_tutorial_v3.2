@@ -12,4 +12,4 @@ having him explain the *reason* why you're doing what you're doing.
 Try coding the whole thing by hand, don't copy and paste!  It takes longer,
 but you build your coding muscle memory!
 
--Trace Helms
+th
