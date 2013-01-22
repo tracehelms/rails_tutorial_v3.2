@@ -4,7 +4,8 @@ This is the sample application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
 
-**Highly recommended!**
+##Highly recommended!
+
 This tutorial is awesome! It's like sitting beside a veteran programmer and
 having him explain the *reason* why you're doing what you're doing.
 
